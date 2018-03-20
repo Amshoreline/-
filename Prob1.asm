@@ -12,7 +12,7 @@ UpperCase:	.asciiz "Alpha","   ","Bravo","   ","China","   ","Delta","   ","Echo
 			"Sierra","  ","Tango","   ","Uniform"," ","Victor","  ","Whisky","  ","X-ray","   ",
 			"Yankee","  ","Zulu"
 			
-Number:		.asciiz "Zero","    ","First","   ","Second","  ","Third","   ","Fourth","  ","Fifth","   ",
+Number:		.asciiz "zero","    ","First","   ","Second","  ","Third","   ","Fourth","  ","Fifth","   ",
 			"Sixth","   ","Seventh"," ","Eighth","  ","Ninth"
 
 	.text	
